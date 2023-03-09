@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Northeast Minneapolis",
+      "date": "March 17, 2023",
+      "time": "13:00",
+      "petsAllowed": true,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 4582797,
+      "category": "food",
+      "title": "Community Garden",
+      "description": "Join us as we tend to the community food garden.",
+      "location": "North Loop, Minneapolis",
+      "date": "March 22, 2023",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 8419988,
+      "category": "environmental sustainability",
+      "title": "Beach Cleanup",
+      "description": "Come cleanup the lake and enjoy free food, games, and fun after we're done.",
+      "location": "Bde Mke Ska, Minneapolis",
+      "date": "May 1, 2023",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Shawn Karber"
+    }
+  ]
+}
