@@ -1,4 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
+import AboutView from '@/views/AboutView.vue';
+import EventDetailsView from '@/views/EventDetailsView.vue';
 import EventListView from '@/views/EventListView.vue';
 
 const router = createRouter({
@@ -7,24 +9,25 @@ const router = createRouter({
     {
       path: '/',
       name: 'event-list',
-      component: EventListView
+      component: EventListView,
+      props: (route) => ({ page: parseInt(route.query.page) || 1 }),
     },
     {
       path: '/event/:id',
       name: 'event-details',
       props: true,
-      component: () => import('@/views/EventDetailsView.vue')
+      component: EventDetailsView,
     },
     {
       path: '/about',
       name: 'about',
-      component: () => import('@/views/AboutView.vue')
+      component: AboutView,
     },
     {
       path: '/:catchAll(.*)',
-      component: () => import('@/views/NotFoundView.vue')
-    }
-  ]
+      component: () => import('@/views/NotFoundView.vue'),
+    },
+  ],
 });
 
 export default router;
