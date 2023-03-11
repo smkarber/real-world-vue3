@@ -32,6 +32,83 @@
       "time": "12:00",
       "petsAllowed": true,
       "organizer": "Shawn Karber"
+    },
+    {
+      "id": 7689623,
+      "category": "neighborhood rejuvenation",
+      "title": "Block Party",
+      "description": "Come to the park downtown for fun, food, and family. Outdoor movie starts at 9pm.",
+      "location": "Elliot Park, Minneapolis",
+      "date": "June 10, 2023",
+      "time": "19:00",
+      "petsAllowed": true,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 9010943,
+      "category": "environmental sustainability",
+      "title": "Interstate Cleanup",
+      "description": "Help I-35 and I-94 look a little nicer.",
+      "location": "Downtown, Minneapolis",
+      "date": "July 24, 2023",
+      "time": "08:00",
+      "petsAllowed": false,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 1901127,
+      "category": "food",
+      "title": "Pack Food Kits for Families",
+      "description": "Help build, pack, and deliver food kits for families in need all around the metro.",
+      "location": "Third Harvest on Fourth, Minneapolis",
+      "date": "May 14, 2023",
+      "time": "07:00",
+      "petsAllowed": false,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 2341190,
+      "category": "animal welfare",
+      "title": "Dog Walk and Play",
+      "description": "Help walk dogs from the local shelter and play with them in the dog park. Help families interact with potential adoptees.",
+      "location": "Triangle Dog Park, Minneapolis",
+      "date": "April 7, 2023",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 2304098,
+      "category": "environmental sustainability",
+      "title": "Beach Cleanup",
+      "description": "Come cleanup the lake, again, and enjoy free food, games, and fun after we're done.",
+      "location": "Bde Mke Ska, Minneapolis",
+      "date": "August 1, 2023",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 9072346,
+      "category": "food",
+      "title": "Community Garden",
+      "description": "Celebrate the garden and all its fruits by helping harvest our yield. Take home for everyone.",
+      "location": "North Loop, Minneapolis",
+      "date": "September 10, 2023",
+      "time": "08:00",
+      "petsAllowed": false,
+      "organizer": "Shawn Karber"
+    },
+    {
+      "id": 3453188,
+      "category": "community support",
+      "title": "Holiday Gift Drive",
+      "description": "Help take in gift donations, wrap them, and deliver them to families in need this holiday season.",
+      "location": "Dayton's in Downtown, Minneapolis",
+      "date": "December 2, 2023",
+      "time": "09:00",
+      "petsAllowed": true,
+      "organizer": "Shawn Karber"
     }
   ]
 }
