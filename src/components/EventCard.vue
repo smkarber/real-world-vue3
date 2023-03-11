@@ -2,8 +2,8 @@
   defineProps({
     event: {
       type: Object,
-      required: true
-    }
+      required: true,
+    },
   });
 
   function use12HourConverter(time) {
@@ -11,7 +11,7 @@
       timeZone: 'UTC',
       hour12: true,
       hour: 'numeric',
-      minute: 'numeric'
+      minute: 'numeric',
     });
   }
 </script>

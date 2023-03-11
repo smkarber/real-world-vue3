@@ -5,8 +5,8 @@
   const props = defineProps({
     id: {
       type: Number,
-      required: true
-    }
+      required: true,
+    },
   });
 
   const event = ref(null);
